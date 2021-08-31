@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax.iml" filepath="$PROJECT_DIR$/Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AjaxDemo1/AjaxDemo1.iml" filepath="$PROJECT_DIR$/AjaxDemo1/AjaxDemo1.iml" />
+    </modules>
+  </component>
+</project>
